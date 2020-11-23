@@ -5,10 +5,10 @@ import com.example.group.bean.GoodsInfo;
 import com.example.group.widget.SpacesItemDecoration;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.DefaultItemAnimator;
-import android.support.v7.widget.RecyclerView;
-import android.support.v7.widget.StaggeredGridLayoutManager;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.DefaultItemAnimator;
+import androidx.appcompat.widget.RecyclerView;
+import androidx.appcompat.widget.StaggeredGridLayoutManager;
 import android.widget.LinearLayout;
 
 /**

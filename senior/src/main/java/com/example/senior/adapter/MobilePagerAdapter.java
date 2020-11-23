@@ -5,9 +5,9 @@ import java.util.ArrayList;
 import com.example.senior.bean.GoodsInfo;
 import com.example.senior.fragment.DynamicFragment;
 
-import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
-import android.support.v4.app.FragmentStatePagerAdapter;
+import androidx.core.app.Fragment;
+import androidx.core.app.FragmentManager;
+import androidx.core.app.FragmentStatePagerAdapter;
 
 public class MobilePagerAdapter extends FragmentStatePagerAdapter {
     private ArrayList<GoodsInfo> mGoodsList = new ArrayList<GoodsInfo>(); // 声明一个商品队列

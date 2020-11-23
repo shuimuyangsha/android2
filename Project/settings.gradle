@@ -1,3 +1,4 @@
+include ':middle'
 include ':storage'
 include ':junior'
 include ':app'

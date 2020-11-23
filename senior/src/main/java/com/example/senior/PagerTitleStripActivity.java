@@ -4,10 +4,10 @@ import java.util.ArrayList;
 
 import android.graphics.Color;
 import android.os.Bundle;
-import android.support.v4.view.PagerTitleStrip;
-import android.support.v4.view.ViewPager;
-import android.support.v4.view.ViewPager.OnPageChangeListener;
-import android.support.v7.app.AppCompatActivity;
+import androidx.core.view.PagerTitleStrip;
+import androidx.core.view.ViewPager;
+import androidx.core.view.ViewPager.OnPageChangeListener;
+import androidx.appcompat.app.AppCompatActivity;
 import android.util.TypedValue;
 import android.widget.Toast;
 

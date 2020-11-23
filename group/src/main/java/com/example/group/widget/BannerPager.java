@@ -8,9 +8,9 @@ import com.example.group.util.Utils;
 
 import android.content.Context;
 import android.os.Handler;
-import android.support.v4.view.PagerAdapter;
-import android.support.v4.view.ViewPager;
-import android.support.v4.view.ViewPager.SimpleOnPageChangeListener;
+import androidx.core.view.PagerAdapter;
+import androidx.core.view.ViewPager;
+import androidx.core.view.ViewPager.SimpleOnPageChangeListener;
 import android.util.AttributeSet;
 import android.view.Gravity;
 import android.view.LayoutInflater;

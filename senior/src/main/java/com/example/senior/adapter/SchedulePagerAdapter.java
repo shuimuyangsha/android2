@@ -3,9 +3,9 @@ package com.example.senior.adapter;
 import com.example.senior.calendar.Constant;
 import com.example.senior.fragment.ScheduleFragment;
 
-import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
-import android.support.v4.app.FragmentStatePagerAdapter;
+import androidx.core.app.Fragment;
+import androidx.core.app.FragmentManager;
+import androidx.core.app.FragmentStatePagerAdapter;
 
 public class SchedulePagerAdapter extends FragmentStatePagerAdapter {
 

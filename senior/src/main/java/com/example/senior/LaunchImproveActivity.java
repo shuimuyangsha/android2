@@ -1,8 +1,8 @@
 package com.example.senior;
 
 import android.os.Bundle;
-import android.support.v4.view.ViewPager;
-import android.support.v7.app.AppCompatActivity;
+import androidx.core.view.ViewPager;
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.senior.adapter.LaunchImproveAdapter;
 
