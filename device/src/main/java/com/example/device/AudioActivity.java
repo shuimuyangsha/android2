@@ -5,7 +5,7 @@ import com.example.device.widget.AudioRecorder;
 
 import android.os.Bundle;
 import android.os.Handler;
-import androidx.appcompat.app.AppCompatActivity;
+import android.support.v7.app.AppCompatActivity;
 
 /**
  * Created by ouyangshen on 2017/11/4.

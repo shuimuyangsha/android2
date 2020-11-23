@@ -4,7 +4,7 @@ import com.example.thirdsdk.fragment.ComposeSettingsFragment;
 import com.example.thirdsdk.fragment.RecognizeSettingsFragment;
 
 import android.os.Bundle;
-import androidx.appcompat.app.AppCompatActivity;
+import android.support.v7.app.AppCompatActivity;
 
 public class VoiceSettingsActivity extends AppCompatActivity {
     public static final String PREFER_NAME = "com.example.thirdsdk";

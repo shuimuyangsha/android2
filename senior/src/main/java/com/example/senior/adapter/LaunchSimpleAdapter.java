@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import com.example.senior.R;
 
 import android.content.Context;
-import androidx.core.view.PagerAdapter;
+import android.support.v4.view.PagerAdapter;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.View.OnClickListener;

@@ -1,5 +1,0 @@
-include ':middle'
-include ':storage'
-include ':junior'
-include ':app'
-rootProject.name = "My Application"

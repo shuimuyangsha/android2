@@ -5,7 +5,7 @@ import com.example.animation.widget.MosaicView;
 import android.animation.ObjectAnimator;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
-import androidx.appcompat.app.AppCompatActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;

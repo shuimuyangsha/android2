@@ -3,7 +3,7 @@ package com.example.device;
 import android.content.Context;
 import android.media.AudioManager;
 import android.os.Bundle;
-import androidx.appcompat.app.AppCompatActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;

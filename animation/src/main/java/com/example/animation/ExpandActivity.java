@@ -3,7 +3,7 @@ package com.example.animation;
 import com.example.animation.widget.ExpandTextLayout;
 
 import android.os.Bundle;
-import androidx.appcompat.app.AppCompatActivity;
+import android.support.v7.app.AppCompatActivity;
 
 /**
  * Created by ouyangshen on 2017/11/27.

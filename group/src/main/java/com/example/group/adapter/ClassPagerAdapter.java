@@ -2,9 +2,9 @@ package com.example.group.adapter;
 
 import java.util.ArrayList;
 
-import androidx.core.app.Fragment;
-import androidx.core.app.FragmentManager;
-import androidx.core.app.FragmentPagerAdapter;
+import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentManager;
+import android.support.v4.app.FragmentPagerAdapter;
 
 import com.example.group.fragment.AppliancesFragment;
 import com.example.group.fragment.ClothesFragment;

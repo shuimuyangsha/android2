@@ -7,7 +7,7 @@ import android.content.Context;
 import android.content.res.TypedArray;
 import android.graphics.Canvas;
 import android.graphics.Color;
-import androidx.core.view.PagerTabStrip;
+import android.support.v4.view.PagerTabStrip;
 import android.util.AttributeSet;
 import android.util.Log;
 import android.util.TypedValue;

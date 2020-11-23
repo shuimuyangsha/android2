@@ -6,7 +6,7 @@ import com.example.senior.adapter.PlanetListAdapter;
 import com.example.senior.bean.Planet;
 
 import android.os.Bundle;
-import androidx.appcompat.app.AppCompatActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.Spinner;

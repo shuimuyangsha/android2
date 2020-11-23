@@ -7,9 +7,9 @@ import com.example.senior.bean.GoodsInfo;
 
 import android.graphics.Color;
 import android.os.Bundle;
-import androidx.core.view.PagerTabStrip;
-import androidx.core.view.ViewPager;
-import androidx.appcompat.app.AppCompatActivity;
+import android.support.v4.view.PagerTabStrip;
+import android.support.v4.view.ViewPager;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.util.TypedValue;
 
